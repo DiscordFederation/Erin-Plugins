@@ -1,4 +1,4 @@
-from utilities.tags import Tag
+from plugins.utilities.tags import Tag
 
 plugin_data = {
     "name": "Erin Utility Plugins",

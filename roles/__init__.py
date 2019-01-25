@@ -1,4 +1,4 @@
-from roles import PersistRoles
+from plugins.roles.role_persist import PersistRoles
 
 plugin_data = {
     "name": "Erin Role Plugins",
