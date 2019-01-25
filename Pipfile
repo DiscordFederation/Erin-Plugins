@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+discord-py = {extras = ["voice"], file = "https://github.com/Rapptz/discord.py/archive/rewrite.zip", index = "https://pypi.python.org/simple"}
+
+[requires]
+python_version = "3.7"
